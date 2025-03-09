@@ -5,6 +5,7 @@ seoDescription: "Learn how GitHub Hooks automate workflows, trigger actions, and
 datePublished: Sat Mar 08 2025 17:06:04 GMT+0000 (Coordinated Universal Time)
 cuid: cm80ghlui000909la9v4xex2z
 slug: understanding-github-hooks-a-simple-guide-for-everyone
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1741497141408/fe88f4c4-26fd-453b-91a1-f0decea453a2.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1741495402050/66d1c2a3-f131-4d79-9a0a-0cf8eb543ad0.png
 tags: devops
 
