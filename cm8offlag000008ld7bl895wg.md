@@ -1,5 +1,5 @@
 ---
-title: "A simple guide to Atlansian Jira"
+title: "Navigating Jira: A Practical Introduction"
 seoTitle: "Beginner's Guide to Jira"
 seoDescription: "Learn Jira for project management, Agile frameworks, issue tracking, and integrations with Slack and GitHub"
 datePublished: Tue Mar 25 2025 11:42:58 GMT+0000 (Coordinated Universal Time)
