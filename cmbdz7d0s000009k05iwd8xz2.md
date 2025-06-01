@@ -5,7 +5,8 @@ seoDescription: "Explore Docker's architecture: lightweight builds, secure image
 datePublished: Sun Jun 01 2025 18:10:06 GMT+0000 (Coordinated Universal Time)
 cuid: cmbdz7d0s000009k05iwd8xz2
 slug: the-complete-docker-setup-lightweight-builds-secure-images-and-connected-services
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748801035685/4d8106dc-c672-4421-abf4-b07a1941e763.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748801700519/74ffdd44-1e7a-4d8a-a71b-742fb1e0f713.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1748801722077/33420126-2646-4984-8cfd-29e3001000ce.png
 tags: docker, developer, devops, twscommunity
 
 ---
